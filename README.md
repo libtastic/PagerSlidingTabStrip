@@ -1,4 +1,5 @@
 # Android PagerSlidingTabStrip
+[![Badge](http://www.libtastic.com/static/osbadges/255.png)](http://www.libtastic.com/technology/255/)
 
 Interactive paging indicator widget, compatible with the `ViewPager` from the 
 Android Support Library. 
